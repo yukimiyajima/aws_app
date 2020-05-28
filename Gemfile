@@ -73,5 +73,5 @@ gem 'dotenv-rails' # 開発環境で環境変数を操作するのに必要
     # 以下省略
   end
   
-gem 'ed25519'
-gem 'bcrypt_pbkdf'
+# gem 'ed25519'
+# gem 'bcrypt_pbkdf'
